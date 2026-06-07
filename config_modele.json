@@ -1,0 +1,13 @@
+{
+    "seuil_optimal": 0.5,
+    "recall_obtenu": 0.888,
+    "precision_obtenu": 0.592,
+    "pr_auc": 0.873,
+    "roc_auc": 0.985,
+    "fn_fraudes_ratees": 11,
+    "fp_fausses_alertes": 60,
+    "cout_estime_euros": 6100,
+    "modele": "XGBoost",
+    "smote": true,
+    "decision": "Seuil 0.50 retenu \u2014 meilleur compromis co\u00fbt/performance"
+}
