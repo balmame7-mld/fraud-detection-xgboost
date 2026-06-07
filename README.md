@@ -138,9 +138,7 @@ Le seuil 0.98 rate trop de vraies fraudes (pertes directes).
 
 ├── comparaison_modeles.png
 
-├── optimisation_seuil.png
-
-└── comparaison_seuils.png
+└── optimisation_seuil.png
 
 ---
 
@@ -151,9 +149,6 @@ Le seuil 0.98 rate trop de vraies fraudes (pertes directes).
 
 ### Comparaison Random Forest vs XGBoost
 ![Comparaison](images/comparaison_modeles.png)
-
-### Optimisation du seuil de décision
-![Seuil](images/comparaison_seuils.png)
 
 ---
 
